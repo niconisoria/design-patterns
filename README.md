@@ -1,7 +1,6 @@
 # Design Patterns and Programming Principles
 
 ## UML
----
 
 ![Dependency](images/dependency.png)
 ![Dependency](images/association.png)
@@ -10,7 +9,6 @@
 ![Dependency](images/summary.png)
 
 ## SOLID
----
 
 ### Single Responsibility Principle
 
